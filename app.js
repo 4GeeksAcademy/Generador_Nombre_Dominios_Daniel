@@ -25,5 +25,5 @@ const combinations = () => {
         }
     }
 
-}
+};
 combinations();
